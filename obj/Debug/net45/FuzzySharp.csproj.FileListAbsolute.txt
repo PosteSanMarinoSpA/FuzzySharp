@@ -1,0 +1,20 @@
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\bin\Debug\net45\FuzzySharp.dll
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\bin\Debug\net45\FuzzySharp.pdb
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\obj\Debug\net45\FuzzySharp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\obj\Debug\net45\FuzzySharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\obj\Debug\net45\FuzzySharp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\obj\Debug\net45\FuzzySharp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\obj\Debug\net45\FuzzySharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\obj\Debug\net45\FuzzySharp.sourcelink.json
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\obj\Debug\net45\FuzzySharp.dll
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\obj\Debug\net45\FuzzySharp.pdb
+C:\Daniele\05. Sviluppo\FuzzySharp\bin\Debug\net45\FuzzySharp.dll
+C:\Daniele\05. Sviluppo\FuzzySharp\bin\Debug\net45\FuzzySharp.pdb
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Debug\net45\FuzzySharp.csproj.AssemblyReference.cache
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Debug\net45\FuzzySharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Debug\net45\FuzzySharp.AssemblyInfoInputs.cache
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Debug\net45\FuzzySharp.AssemblyInfo.cs
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Debug\net45\FuzzySharp.csproj.CoreCompileInputs.cache
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Debug\net45\FuzzySharp.sourcelink.json
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Debug\net45\FuzzySharp.dll
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Debug\net45\FuzzySharp.pdb

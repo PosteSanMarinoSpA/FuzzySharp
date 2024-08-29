@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\bin\Debug\netcoreapp2.0\FuzzySharp.deps.json
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\bin\Debug\netcoreapp2.0\FuzzySharp.dll
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\bin\Debug\netcoreapp2.0\FuzzySharp.pdb
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\obj\Debug\netcoreapp2.0\FuzzySharp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\obj\Debug\netcoreapp2.0\FuzzySharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\obj\Debug\netcoreapp2.0\FuzzySharp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\obj\Debug\netcoreapp2.0\FuzzySharp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\obj\Debug\netcoreapp2.0\FuzzySharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\obj\Debug\netcoreapp2.0\FuzzySharp.sourcelink.json
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\obj\Debug\netcoreapp2.0\FuzzySharp.dll
+C:\Users\Administrator\Desktop\FuzzySharp-master\FuzzySharp-master\FuzzySharp\obj\Debug\netcoreapp2.0\FuzzySharp.pdb
+C:\Daniele\05. Sviluppo\FuzzySharp\bin\Debug\netcoreapp2.0\FuzzySharp.deps.json
+C:\Daniele\05. Sviluppo\FuzzySharp\bin\Debug\netcoreapp2.0\FuzzySharp.dll
+C:\Daniele\05. Sviluppo\FuzzySharp\bin\Debug\netcoreapp2.0\FuzzySharp.pdb
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Debug\netcoreapp2.0\FuzzySharp.csproj.AssemblyReference.cache
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Debug\netcoreapp2.0\FuzzySharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Debug\netcoreapp2.0\FuzzySharp.AssemblyInfoInputs.cache
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Debug\netcoreapp2.0\FuzzySharp.AssemblyInfo.cs
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Debug\netcoreapp2.0\FuzzySharp.csproj.CoreCompileInputs.cache
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Debug\netcoreapp2.0\FuzzySharp.sourcelink.json
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Debug\netcoreapp2.0\FuzzySharp.dll
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Debug\netcoreapp2.0\FuzzySharp.pdb
