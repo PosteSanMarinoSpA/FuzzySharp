@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FuzzySharp</id>
+    <version>2.0.2</version>
+    <authors>Jacob Bayer</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/JakeBayer/FuzzySharp</projectUrl>
+    <description>Fuzzy string matcher based on FuzzyWuzzy algorithm from SeatGeek</description>
+    <releaseNotes>Include source link</releaseNotes>
+    <tags>Fuzzy String Matching Comparison FuzzyWuzzy FuzzySharp</tags>
+    <repository type="git" url="https://github.com/JakeBayer/FuzzySharp" commit="82eee2d4741126b4c91b9ba40a86fbad195f578b" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework=".NETFramework4.6" />
+      <group targetFramework=".NETFramework4.6.1" />
+      <group targetFramework=".NETStandard1.6">
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETCoreApp2.0" />
+      <group targetFramework=".NETCoreApp2.1" />
+      <group targetFramework=".NETStandard2.0" />
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.5, .NETFramework4.6, .NETFramework4.6.1" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="C:\Daniele\05. Sviluppo\FuzzySharp\bin\Release\net45\FuzzySharp.dll" target="lib\net45\FuzzySharp.dll" />
+    <file src="C:\Daniele\05. Sviluppo\FuzzySharp\bin\Release\net46\FuzzySharp.dll" target="lib\net46\FuzzySharp.dll" />
+    <file src="C:\Daniele\05. Sviluppo\FuzzySharp\bin\Release\net461\FuzzySharp.dll" target="lib\net461\FuzzySharp.dll" />
+    <file src="C:\Daniele\05. Sviluppo\FuzzySharp\bin\Release\netcoreapp2.0\FuzzySharp.dll" target="lib\netcoreapp2.0\FuzzySharp.dll" />
+    <file src="C:\Daniele\05. Sviluppo\FuzzySharp\bin\Release\netcoreapp2.1\FuzzySharp.dll" target="lib\netcoreapp2.1\FuzzySharp.dll" />
+    <file src="C:\Daniele\05. Sviluppo\FuzzySharp\bin\Release\netstandard1.6\FuzzySharp.dll" target="lib\netstandard1.6\FuzzySharp.dll" />
+    <file src="C:\Daniele\05. Sviluppo\FuzzySharp\bin\Release\netstandard2.0\FuzzySharp.dll" target="lib\netstandard2.0\FuzzySharp.dll" />
+    <file src="C:\Daniele\05. Sviluppo\FuzzySharp\bin\Release\netstandard2.1\FuzzySharp.dll" target="lib\netstandard2.1\FuzzySharp.dll" />
+    <file src="C:\Daniele\05. Sviluppo\FuzzySharp\README.md" target=".\README.md" />
+  </files>
+</package>

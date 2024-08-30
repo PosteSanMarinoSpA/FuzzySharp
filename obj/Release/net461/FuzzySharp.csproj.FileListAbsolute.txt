@@ -1,0 +1,10 @@
+C:\Daniele\05. Sviluppo\FuzzySharp\bin\Release\net461\FuzzySharp.dll
+C:\Daniele\05. Sviluppo\FuzzySharp\bin\Release\net461\FuzzySharp.pdb
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Release\net461\FuzzySharp.csproj.AssemblyReference.cache
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Release\net461\FuzzySharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Release\net461\FuzzySharp.AssemblyInfoInputs.cache
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Release\net461\FuzzySharp.AssemblyInfo.cs
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Release\net461\FuzzySharp.csproj.CoreCompileInputs.cache
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Release\net461\FuzzySharp.sourcelink.json
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Release\net461\FuzzySharp.dll
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Release\net461\FuzzySharp.pdb

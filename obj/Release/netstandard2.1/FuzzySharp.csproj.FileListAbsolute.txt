@@ -1,0 +1,10 @@
+C:\Daniele\05. Sviluppo\FuzzySharp\bin\Release\netstandard2.1\FuzzySharp.deps.json
+C:\Daniele\05. Sviluppo\FuzzySharp\bin\Release\netstandard2.1\FuzzySharp.dll
+C:\Daniele\05. Sviluppo\FuzzySharp\bin\Release\netstandard2.1\FuzzySharp.pdb
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Release\netstandard2.1\FuzzySharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Release\netstandard2.1\FuzzySharp.AssemblyInfoInputs.cache
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Release\netstandard2.1\FuzzySharp.AssemblyInfo.cs
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Release\netstandard2.1\FuzzySharp.csproj.CoreCompileInputs.cache
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Release\netstandard2.1\FuzzySharp.sourcelink.json
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Release\netstandard2.1\FuzzySharp.dll
+C:\Daniele\05. Sviluppo\FuzzySharp\obj\Release\netstandard2.1\FuzzySharp.pdb
