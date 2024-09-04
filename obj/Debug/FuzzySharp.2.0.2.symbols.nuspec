@@ -10,7 +10,7 @@
     <description>Fuzzy string matcher based on FuzzyWuzzy algorithm from SeatGeek</description>
     <releaseNotes>Include source link</releaseNotes>
     <tags>Fuzzy String Matching Comparison FuzzyWuzzy FuzzySharp</tags>
-    <repository type="git" url="https://github.com/JakeBayer/FuzzySharp" commit="d528d0b6d4e4ea84a5e6006ee5b672142e2e7bee" />
+    <repository type="git" url="https://github.com/JakeBayer/FuzzySharp" commit="04012e00cad2eca9ba588cffebc157b2df018ce7" />
     <dependencies>
       <group targetFramework=".NETFramework4.5" />
       <group targetFramework=".NETFramework4.6" />
